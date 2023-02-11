@@ -1,0 +1,7 @@
+name: Itemshow
+version: '${project.version}'
+main: com.helloitsmeadm.itemshow.ItemShow
+api-version: 1.19
+authors: [ HelloItsMeAdm ]
+description: Simple way to show an item in chat. Working with AsyncPlayerChatEvent.
+website: https://www.vojtech-adam.cz/

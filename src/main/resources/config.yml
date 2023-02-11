@@ -1,0 +1,6 @@
+prefix: "§8[§2Server§8]§r "
+placeholder: "[item]"
+formatted_placeholder: "§7[§fitem§7]"
+formatted_placeholder_multiple: "§7[§fitem §r%count%x§7]"
+error_not_holding_item: "§cNedržíš žádný item!"
+error_more_than_one: "§cMůžeš použít pouze jeden placeholder!"
